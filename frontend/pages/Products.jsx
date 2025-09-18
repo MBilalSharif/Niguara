@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
-import Navbar from '../components/NavBar';
-import Footer from '../components/Footer';
 
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 const Products = ({ onAddToCart }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedCategory, setSelectedCategory] = useState('all');
