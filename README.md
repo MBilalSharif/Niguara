@@ -14,7 +14,8 @@ We bring together a futuristic gaming store and the latest updates from the gami
 
 - **Frontend:** React + Vite  
 - **Styling:** TailwindCSS  
-- **Deployment:** GitHub Pages / Vercel / Netlify (choose your platform)  
+- **Deployment:**  Vercel
+- **Live:** https://niguara.vercel.app/
 
 ## 📦 Installation & Setup  
 
